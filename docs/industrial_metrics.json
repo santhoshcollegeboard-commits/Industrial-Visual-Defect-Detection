@@ -1,0 +1,46 @@
+{
+    "total_test_samples": 109,
+    "overall_accuracy": 1.0,
+    "macro_precision": 1.0,
+    "macro_recall": 1.0,
+    "macro_f1_score": 1.0,
+    "weighted_f1_score": 1.0,
+    "per_class_metrics": {
+        "Crazing": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1_score": 1.0,
+            "support": 20
+        },
+        "Inclusion": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1_score": 1.0,
+            "support": 18
+        },
+        "Patches": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1_score": 1.0,
+            "support": 18
+        },
+        "Pitted_Surface": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1_score": 1.0,
+            "support": 23
+        },
+        "Rolled_in_Scale": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1_score": 1.0,
+            "support": 17
+        },
+        "Scratches": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1_score": 1.0,
+            "support": 13
+        }
+    }
+}
